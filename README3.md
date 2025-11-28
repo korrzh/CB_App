@@ -48,3 +48,8 @@ Test the API endpoint:
 ```bash
 http://127.0.0.1:XXXXX/api/population/2024
 ```
+**Screencast video**
+- https://youtu.be/yI0wnEIm4Cw
+- https://youtu.be/FC50T0NdtBk
+- https://youtu.be/gExl-76a1vw
+
